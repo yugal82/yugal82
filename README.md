@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yugal Khanter</h1>
-<h3 align="center">Passionate about software development and creating meaningful experiences. Constantly learning, coding, and pushing the boundaries of what's possible.</h3>
+<h3 align="center">Passionate about software development, artificial intelligence, and machine learning and creating meaningful experiences. Constantly learning, coding, and pushing the boundaries of what's possible.</h3>
 <hr>
 
 <h4>Reach me out on the below handles</h4>
